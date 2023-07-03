@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodingIntermediate
-- 👀 I’m interested in ...Developing
-- 🌱 I’m currently learning ...Node.js
-- 💞️ I’m looking to collaborate on ...Node Deevelopers
+- 👀 I’m interested in ...Web developments
+- 🌱 I’m currently learning ...Node.js,firebase
+- 💞️ I’m looking to collaborate with ...Node.js Deevelopers and firebase developers
 - 📫 How to reach me ...
 
 <!---
