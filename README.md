@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingIntermediate
 - 👀 I’m interested in ...Web developments
-- 🌱 I’m currently learning ...Node.js,firebase
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate with ...Node.js Deevelopers and firebase developers
 - 📫 How to reach me ...
 
