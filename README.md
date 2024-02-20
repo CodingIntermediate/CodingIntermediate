@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @CodingIntermediate<br>👀 I’m interested in ...Web developments<br>🌱 I’m currently learning ...<br>💞️ I’m looking to collaborate with ...Node.js Deevelopers and firebase developers<br>📫 How to reach me through github..
+👋 Hi, I’m @CodingIntermediate<br>👀 I’m interested in ...Web developments<br>🌱 I’m currently learning ...<br>💞️ I’m looking to collaborate with ...Node.js and firebase developers<br>📫 How to reach me through github..
 
 
 ## 🌐 Socials:
